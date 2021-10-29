@@ -1,0 +1,12 @@
+[submodule "activities/metagame"]
+	path = activities/metagame
+	url = https://github.com/CLEPyLadies/metagame
+[submodule "activities/getting-started"]
+	path = activities/getting-started
+	url = https://github.com/CLEPyLadies/getting-started
+[submodule "activities/password-generator"]
+	path = activities/password-generator
+	url = https://github.com/CLEPyLadies/password-generator
+[submodule "activities/guess_the_word"]
+	path = activities/guess_the_word
+	url = https://github.com/CLEPyLadies/guess_the_word
